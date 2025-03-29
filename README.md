@@ -1,4 +1,4 @@
-👋 Hi, I’m Zakarya E. Bennani
+👋 Hi, I’m Zakaryae Bennani
 
 🚀 About Me
 
