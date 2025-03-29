@@ -12,7 +12,7 @@ solving coding problems.
 
 📚 Currently Learning
 
-Deep Learning: Andrew Ng's ML and DL specialization.
+Deep Learning: Andrew Ng's ML and DL specializations.
 
 AI fundamentals: UC berkley CS188 AI fundamentals.
 
