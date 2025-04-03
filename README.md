@@ -16,7 +16,9 @@ Deep Learning: Andrew Ng's ML and DL specializations.
 
 AI fundamentals: UC berkley CS188 AI fundamentals.
 
-English: currently pursuing Z American English level 2.
+Hsoub Academy : CS specialization.
+
+English: pursuing Z American English level 2.
 
 💼 Looking for an internship in AI/ML projects related to search algorithms, reinforcement learning.
 
