@@ -6,21 +6,10 @@ I’m a passionate student from Morocco pursuing a degree in DataScience, Big Da
 
 🔥 Interests
 
-Data Science & AI: Machine learning, reinforcement learning, AI principles algorithms(Search, CSP ...).
-
+Data Science & AI: Machine learning, reinforcement learning, AI principles.
 solving coding problems.
 
-📚 Currently Learning
-
-Deep Learning: Andrew Ng's ML and DL specializations.
-
-AI fundamentals: UC berkley CS188 AI fundamentals.
-
-Hsoub Academy : CS specialization.
-
-English: pursuing Z American English level 2.
-
-💼 Looking for an internship in AI/ML projects related to search algorithms, reinforcement learning.
+💼 Looking for an internship in DS, AI, or ML projects.
 
 <!---
 zakaryaebennani/zakaryaebennani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
