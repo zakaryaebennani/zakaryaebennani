@@ -9,7 +9,7 @@ I’m a passionate student from Morocco pursuing a degree in DataScience, Big Da
 Data Science & AI: Machine learning, reinforcement learning, AI principles.
 solving coding problems.
 
-💼 Looking for an internship in DS, AI, or ML projects.
+💼 Looking for an internship in AI, or ML projects.
 
 <!---
 zakaryaebennani/zakaryaebennani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
