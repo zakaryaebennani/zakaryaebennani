@@ -2,7 +2,7 @@
 
 🚀 About Me
 
-I’m a passionate student from Morocco pursuing a degree in DataScience, Big Data and AI Engineering. My current goal is to build a strong career in AI, and Data Science.
+I’m a passionate student from Morocco pursuing a degree in DataScience, Big Data and AI Engineering. My current goal is to build a strong career in AI engineering.
 
 🔥 Interests
 
